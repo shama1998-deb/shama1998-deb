@@ -1,15 +1,12 @@
 ## Hi, I'm Shama 👋
 
-<!--
-**shama1998-deb/shama1998-deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-**Master of Statistics graduate with interests in:**
+## Master of Statistics graduate with interests in:
   - Data Analytics
   - Data Science
   - Bioinformatics
   - Statistical Modelling
   - Research
-**Skills:**
+## Skills:
 **Programming**
   - Python
   - R

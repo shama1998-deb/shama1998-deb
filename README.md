@@ -30,6 +30,7 @@
 
 ## Education
 Master of Statistics
+
 The University of Melbourne
 
 ## Contact

@@ -1,5 +1,4 @@
 ## Hi, I'm Shama 👋
-
 ## Master of Statistics graduate with interests in:
   - Data Analytics
   - Data Science
@@ -22,4 +21,3 @@
   - Hypothesis Testing
   - Experimental Design
 
--->
